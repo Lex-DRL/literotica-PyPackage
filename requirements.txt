@@ -1,0 +1,5 @@
+attrs
+GitPython
+multivolumefile
+py7zr
+tqdm
